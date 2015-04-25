@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NeuralWorks">
+</Property><Property Name="Solution File" Value="C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\NeuralWorks.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\NeuralWorks.suo">
+</Property><Property Name="Date" Value="11 February 2011">
+</Property><Property Name="Time" Value="14:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NeuralWorks.sln" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NeuralWorks.suo" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks.suo">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\NeuralWorks.csproj" Description="Project file successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\NeuralWorks.csproj">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\NeuralWorks.csproj.user" Description="Project user file successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\NeuralWorks.csproj.user">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\Dendrite.cs" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\Dendrite.cs">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\Network.cs" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\Network.cs">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\NeuralWorks.cs" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\NeuralWorks.cs">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\NeuralWorks.Designer.cs" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\NeuralWorks.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\Neuron.cs" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\Neuron.cs">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\Program.cs" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\Program.cs">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\NeuralWorks.resx" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\NeuralWorks.resx">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Drew\Documents\Visual Studio 2010\Projects\NeuralWorks\Backup\NeuralWorks\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\NeuralWorks.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NeuralWorks" Source="NeuralWorks\NeuralWorks.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NeuralWorks.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NeuralWorks.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NeuralWorks" Source="NeuralWorks\NeuralWorks.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
