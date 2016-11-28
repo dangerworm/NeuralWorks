@@ -1,0 +1,6 @@
+*.exe
+*.dll
+NeuralWorks/bin/*
+NeuralWorks/bin/*/*
+NeuralWorks/obj/*
+NeuralWorks/obj/*/*
