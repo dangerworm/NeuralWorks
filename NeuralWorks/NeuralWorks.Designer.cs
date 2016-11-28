@@ -144,6 +144,7 @@
             this.OutputNodes.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
             this.OutputNodes.Size = new System.Drawing.Size(120, 251);
             this.OutputNodes.TabIndex = 4;
+            this.OutputNodes.DoubleClick += new System.EventHandler(this.OutputNodes_DoubleClick);
             // 
             // imgNetwork
             // 
@@ -162,6 +163,7 @@
             this.InputNodes.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
             this.InputNodes.Size = new System.Drawing.Size(120, 251);
             this.InputNodes.TabIndex = 2;
+            this.InputNodes.DoubleClick += new System.EventHandler(this.OutputNodes_DoubleClick);
             // 
             // NeuralWorks
             // 

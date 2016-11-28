@@ -110,11 +110,14 @@ namespace NeuralWorks
 
         private void NeuralWorks_SizeChanged(object sender, EventArgs e)
         {
-            InputNodes.Height = OutputNodes.Height = Height - (38 + 15 + 25);
-            OutputNodes.Left = Width - (OutputNodes.Width + 15);
+            grpNetwork.Width = Width - 36;
+            grpNetwork.Height = Height - 118;
 
-            imgNetwork.Height = Height - (38 + 15 + 25);
+            InputNodes.Height = OutputNodes.Height = grpNetwork.Height - 24;
+            imgNetwork.Height = InputNodes.Height;
+
             imgNetwork.Width = Width - InputNodes.Width - OutputNodes.Width - (4 * 15);
+            OutputNodes.Left = imgNetwork.Left + imgNetwork.Width + 6;
 
             DrawNeurons();
         }
@@ -142,7 +145,9 @@ namespace NeuralWorks
                         break;
                     default: break;
                 }
-                
+
+                e.Handled = true;
+
                 Net.GenerateNeurons(layer, 0, Convert.ToInt32(((TextBox)sender).Text));
                 DrawNeurons();
             }
@@ -163,7 +168,10 @@ namespace NeuralWorks
         private void ValuePrompt_KeyUp(object sender, KeyEventArgs e)
         {
             if (e.KeyData.Equals(Keys.Enter))
+            {
                 ValuePrompt.Visible = false;
+                e.Handled = true;
+            }
         }
     }
 }
